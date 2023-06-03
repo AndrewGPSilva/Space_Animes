@@ -1,5 +1,6 @@
 .menu {
     width: 18%;
+    font-family:"GandhiSansBold";
 
     &__lista {
         padding-left: 0.5rem;
@@ -9,12 +10,14 @@
         display: flex;
         flex-direction: column;
         justify-content: space-around;
+        font-family:"GandhiSansBold";
     }
 
     &__item {
         display: flex;
         justify-content: flex-start;
         align-items: center;
+        font-family:"GandhiSansBold";
 
         &:first-child {
             a {
