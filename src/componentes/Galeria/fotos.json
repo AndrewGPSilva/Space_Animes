@@ -1,72 +1,86 @@
 [
     {
-        "titulo": "Nome da Foto",
-        "creditos": "Alura Space",
+        "titulo": "One Piece- Personagens",
+        "creditos": "@andrew_gpereira",
         "imagem": "/assets/imagens/galeria/foto-1.png",
         "id": "1",
-        "tag": "Galáxias"
+        "tag": "OP"
     },
     {
-        "titulo": "Nome da Foto",
-        "creditos": "Alura Space",
+        "titulo": "Chapéus de Palha",
+        "creditos": "@andrew_gpereira",
         "imagem": "/assets/imagens/galeria/foto-2.png",
         "id": "2",
-        "tag": "Estrelas"
+        "tag": "OP"
     },
     {
-        "titulo": "Nome da Foto",
-        "creditos": "Alura Space",
+        "titulo": "Três Irmãos",
+        "creditos": "@andrew_gpereira",
         "imagem": "/assets/imagens/galeria/foto-3.png",
         "id": "3",
-        "tag": "Lua"
+        "tag": "OP"
     },
     {
-        "titulo": "Nome da Foto",
-        "creditos": "Alura Space",
+        "titulo": "Naruto e Kurama",
+        "creditos": "@andrew_gpereira",
         "imagem": "/assets/imagens/galeria/foto-4.png",
         "id": "4",
-        "tag": "Galáxias"
+        "tag": "NARUTO"
     },
     {
-        "titulo": "Nome da Foto",
-        "creditos": "Alura Space",
+        "titulo": "Sasuke e Itachi",
+        "creditos": "@andrew_gpereira",
         "imagem": "/assets/imagens/galeria/foto-5.png",
         "id": "5",
-        "tag": "Estrelas"
+        "tag": "NARUTO"
     },
     {
-        "titulo": "Nome da Foto",
-        "creditos": "Alura Space",
+        "titulo": "Itachi e Sasuke",
+        "creditos": "@andrew_gpereira",
         "imagem": "/assets/imagens/galeria/foto-6.png",
         "id": "6",
-        "tag": "Nebulosas"
+        "tag": "NARUTO"
     },
     {
-        "titulo": "Nome da Foto",
-        "creditos": "Alura Space",
+        "titulo": "Protagonistas",
+        "creditos": "@andrew_gpereira",
         "imagem": "/assets/imagens/galeria/foto-7.png",
         "id": "7",
-        "tag": "Galáxias"
+        "tag": "DS"
     },
     {
-        "titulo": "Nome da Foto",
-        "creditos": "Alura Space",
+        "titulo": "Nezuko Kamado",
+        "creditos": "@andrew_gpereira",
         "imagem": "/assets/imagens/galeria/foto-8.png",
         "id": "8",
-        "tag": "Nebulosas"
+        "tag": "DS"
     },
     {
-        "titulo": "Nome da Foto",
-        "creditos": "Alura Space",
+        "titulo": "Kokushibo",
+        "creditos": "@andrew_gpereira",
         "imagem": "/assets/imagens/galeria/foto-9.png",
         "id": "9",
-        "tag": "Estrelas"
+        "tag": "DS"
     },
     {
-        "titulo": "Nome da Foto",
-        "creditos": "Alura Space",
+        "titulo": "Eren Yeager",
+        "creditos": "@andrew_gpereira",
         "imagem": "/assets/imagens/galeria/foto-10.png",
         "id": "10",
-        "tag": "Estrelas"
+        "tag": "DIVERSOS"
+    },
+    {
+        "titulo": "Boku No Hero- Protagonistas",
+        "creditos": "@andrew_gpereira",
+        "imagem": "/assets/imagens/galeria/foto-11.png",
+        "id": "11",
+        "tag": "DIVERSOS"
+    },
+    {
+        "titulo": "Gon Freecss",
+        "creditos": "@andrew_gpereira",
+        "imagem": "/assets/imagens/galeria/foto-12.png",
+        "id": "12",
+        "tag": "DIVERSOS"
     }
 ]

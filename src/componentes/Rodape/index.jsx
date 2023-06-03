@@ -3,6 +3,8 @@ import facebook from "./facebook.svg";
 import twitter from "./twitter.svg";
 import instagram from "./instagram.svg";
 import styles from "./Rodape.module.scss";
+import '../../assets/fontes/GandhiSans-Bold.otf'
+import '../../assets/fontes/GandhiSans-Regular.otf'
 
 export default function Rodape() {
   return (
@@ -30,7 +32,7 @@ export default function Rodape() {
           <img src={instagram} alt="ícone do instagram" />
         </a>
       </div>
-      <p>Desenvolvido por Andrew Silva</p>
+      <p><strong>Desenvolvido por Andrew Silva</strong></p>
     </footer>
   );
 }

@@ -1,27 +1,27 @@
 [
     {
       "path": "/assets/imagens/populares/foto-1.png",
-      "alt": "galáxia",
+      "alt": "hunter x hunter",
       "id": 1
     },
     {
       "path": "/assets/imagens/populares/foto-2.png",
-      "alt": "lua",
+      "alt": "naruto",
       "id": 2
     },
     {
       "path": "/assets/imagens/populares/foto-3.png",
-      "alt": "terra",
+      "alt": "one piece",
       "id": 3
     },
     {
       "path": "/assets/imagens/populares/foto-4.png",
-      "alt": "nuvem",
+      "alt": "demon slayer",
       "id": 4
     },
     {
       "path": "/assets/imagens/populares/foto-5.png",
-      "alt": "meteoro",
+      "alt": "boku no hero",
       "id": 5
     }
 ]

@@ -19,7 +19,7 @@ export default function Galeria() {
 
   return (
     <section className={styles.galeria}>
-      <h2>Navegue pela Galeria</h2>
+      <h2>Navegue pelos Animes</h2>
       <Tags tags={tags} filtraFotos={filtraFotos} setItens={setItens}/>
       <Cards itens={itens} styles={styles}/> 
     </section>

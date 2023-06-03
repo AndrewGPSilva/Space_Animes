@@ -5,8 +5,6 @@ import maisVistas from '../../assets/icones/mais-vistas-inativo.png'
 import novas from '../../assets/icones/novas-inativo.png'
 import surpreenda from '../../assets/icones/mais-vistas-inativo.png'
 import styles from './Menu.module.scss'
-import '../../assets/fontes/GandhiSans-Bold.otf'
-import '../../assets/fontes/GandhiSans-Regular.otf'
 
 export default function Menu() {
   return (

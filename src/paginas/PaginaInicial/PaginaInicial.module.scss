@@ -10,6 +10,12 @@ main {
     margin-top: 1rem;
   }
 
+.fundoimagem {
+    border-radius: 20px;
+    max-height: 300px; /* Defina a altura máxima desejada */
+    max-width: 100%;
+}
+
 .principal {
     display: flex;
     align-items: center;
@@ -29,7 +35,7 @@ main {
         h1 {
             position: absolute;
             z-index: 1;
-            color: #d9d9d9;
+            color: #15ff00;
             font-size: 2.5rem;
             font-family: "GandhiSansBold";
             width: 401px;

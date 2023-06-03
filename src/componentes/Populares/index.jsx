@@ -5,7 +5,7 @@ import fotosPopulares from './fotos-populares.json'
 export default function Populares() {
   return (
     <aside className={styles.populares}>
-        <h2>Populares</h2>
+        <h2>Animes Populares</h2>
         <ul className={styles.populares__imagens}>
           {fotosPopulares.map((fotoPopular) =>{
             return (

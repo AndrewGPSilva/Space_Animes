@@ -1,4 +1,4 @@
-import banner from './banner.png'
+import banner from './fundo.jpg'
 import styles from './PaginaInicial.module.scss'
 
 import Cabecalho from "componentes/Cabecalho";
@@ -15,8 +15,8 @@ export default function PaginaInicial() {
                 <section className={styles.principal}>
                     <Menu />
                     <div className={styles.principal__imagem}>
-                        <h1>A galeria mais completa do Espaço!</h1>
-                        <img src={banner} alt="A terra vista do Espaço" />
+                        <h1>Universo GEEK!</h1>
+                        <img src={banner} alt="A terra vista do Espaço" className={styles.fundoimagem}/>
                     </div>
                 </section>
                 <div className={styles.galeria}>
