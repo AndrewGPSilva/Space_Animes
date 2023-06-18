@@ -4,14 +4,13 @@ Projeto desenvolvido por mim, utilizando React Js e Sass!
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Space Animes**
+| :label: Tecnologias | Html, Css, Sass, React.js (tecnologias utilizadas)
+| :rocket: URL         | https://url-deploy.com.br](https://space-animes.vercel.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://raw.githubusercontent.com/AndrewGPSilva/Space_Animes/main/Captura%20de%20tela%202023-06-04%20215941.png#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto feito usando recursos do react, é uma página estática...
